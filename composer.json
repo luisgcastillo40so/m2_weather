@@ -2,7 +2,7 @@
     "name": "orangecat/weather",
     "description": "Open Weather API sample",
     "require": {
-        "php": "~7.1.3||~7.2.0||~7.3.0",
+        "php": "~7.1.3||~7.2.0||~7.3.0||~7.4.0||~8.0.0||~8.1.0",
         "orangecat/geoip": "^1.0.0"
     },
     "type": "magento2-module",
